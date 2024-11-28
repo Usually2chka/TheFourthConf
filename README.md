@@ -248,7 +248,8 @@
 
 Прописывание команд для реализации тестовой программы в файле ```vector_abs.asm```:
 
-![image](https://github.com/user-attachments/assets/f398b9b6-f4bb-4dbe-80b7-ebcc2a0c6ad1)
+![image](https://github.com/user-attachments/assets/c6cbb1e4-37c7-47eb-82ae-f410e30512df)
+
 
 Запуск ассемблера и интерпретатора через командную строку:
 
